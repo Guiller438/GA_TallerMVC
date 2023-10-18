@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GA_TallerMVC", "GA_TallerMVC.csproj", "{5ACDF1B9-C9D0-4048-9928-505862533694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ACDF1B9-C9D0-4048-9928-505862533694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACDF1B9-C9D0-4048-9928-505862533694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACDF1B9-C9D0-4048-9928-505862533694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACDF1B9-C9D0-4048-9928-505862533694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12774344-D34D-45A6-9008-DE02E39840D5}
+	EndGlobalSection
+EndGlobal
